@@ -1,0 +1,3 @@
+pip install Streamlit
+pip install joblib
+Pip install scikit-learn
