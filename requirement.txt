@@ -1,3 +1,5 @@
 pip install Streamlit
 pip install joblib
+pip install matplotlib
+pip install seaborn
 Pip install scikit-learn
