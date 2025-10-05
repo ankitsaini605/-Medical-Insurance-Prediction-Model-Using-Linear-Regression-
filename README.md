@@ -46,4 +46,4 @@ The system integrates **Python, Pandas, Scikit‑Learn, and Streamlit** to deliv
 
 ## 👨‍💻 Author  
 **Ankit Saini**    
-- 🔗 [LinkedIn](https://linkedin.com/in/ankitsaini605) | [Portfolio]()  
+🐙 [GitHub](https://github.com/ankitsaini605) 🔗 [LinkedIn](https://linkedin.com/in/ankitsaini605) 🌐 [Portfolio]()  
